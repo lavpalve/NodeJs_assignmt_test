@@ -1,0 +1,6 @@
+
+	* Endpoints For bookmyshow with mockAPI
+	
+		- Movies -> https://61caeaaa194ffe0017788a3b.mockapi.io/bookmyshow/api/v1/
+		- Offers -> https://61caeaaa194ffe0017788a3b.mockapi.io/bookmyshow/api/v1/offers
+		- cancelRequest -> https://61caeaaa194ffe0017788a3b.mockapi.io/bookmyshow/api/v1/cancelApi

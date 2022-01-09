@@ -1,0 +1,10 @@
+
+* Endpoints for blogging application - 
+
+    allPosts ->    http://localhost:5000/allPosts
+    categoryName ->    http://localhost:5000/categoryName
+    authentication ->    http://localhost:5000/authentication
+    profile ->    http://localhost:5000/profile
+    createPost ->    http://localhost:5000/createPost
+    updatePost ->
+

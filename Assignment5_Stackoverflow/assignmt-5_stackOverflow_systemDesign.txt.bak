@@ -1,0 +1,63 @@
+// Stack_overflow System_design_requirement
+
+	a) Functional requirement
+
+		i) User registor/ Login
+		ii) create blogs (select category, write blogs, add tags)
+		iii) read all blogs (category-wise, recent, most-viewed)
+		id) create plan(package) for premium users (adfree, help to search or show job)
+		v) payment system
+		vi) admin pannel to managed user profile and posts (based on CURD opration)
+		vii) each blogs functionality - created date, updated date, likes, comment, share option
+		
+		
+	b) Non Functional requirement 
+	
+		i) Highly Scalable
+		ii) Memory optimize
+	
+	
+	c) Additional Requirement
+	
+		i) 
+		
+		
+		
+		
+	e) Entities and attribute of the database schema
+	
+		i) Entites -
+				allPosts
+				specificPost
+				userAuthentication
+				admin
+				popularPosts
+				recentPosts
+				category
+				paymentgateway
+		
+		ii) atrribute - 
+		
+				Post ->
+					user_Id
+					post_Id
+					createdAt
+					totalViews
+					likesCounts
+					dislikeCounts
+					comments
+					
+					
+				profile ->
+					name
+					email
+					username
+					password
+					profileImg
+					occupation
+					favouriteTopic
+				
+				
+		
+			
+			
