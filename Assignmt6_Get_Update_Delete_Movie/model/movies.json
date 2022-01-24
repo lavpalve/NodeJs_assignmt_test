@@ -1,0 +1,36 @@
+{
+  "movies": [
+    {
+      "bangalore": [
+        {
+          "id": "0",
+          "name": "Hera Feri",
+          "duration": "130m",
+          "avilableIn": ["abc", "pqr", "xyz"]
+        },
+        {
+          "id": "1",
+          "name": "Endgame",
+          "duration": "150m",
+          "avilableIn": ["fhg", "ttt", "xyccz"]
+        }
+      ]
+    },
+    {
+        "mumbai": [
+          {
+            "id": "0",
+            "name": "Avtar",
+            "duration": "130m",
+            "avilableIn": ["abc", "pqr", "xyz"]
+          },
+          {
+            "id": "1",
+            "name": "Endgame",
+            "duration": "150m",
+            "avilableIn": ["fhg", "ttt", "xyccz"]
+          }
+        ]
+      }
+  ]
+}
